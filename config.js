@@ -28,9 +28,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/xynels.design'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
+global.syt = 'https://youtu.be/8eEHz7V4nIg'
 global.sgh = 'https://github.com/Xynelsbotz'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.sgc = 'https://chat.whatsapp.com/Gv3ARAAr1yDAeCMBpuZ6ER'
 global.swa = 'wa.me/6285854337533'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
@@ -41,7 +41,7 @@ global.povo = '085646458928'
 global.pgopay = '085646458928'
 global.ppulsa = '085646458928'
 global.ppulsa2 = '085854337533'
-global.psaweria = 'https://saweria.co/Sayuogiwaraaaa4'
+global.psaweria = 'https://saweria.co/Sayuogiwaraaaaa4'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285646458928'
@@ -75,7 +75,7 @@ global.APIs = { // API Prefix
   amel: 'https://melcanz.com',
   hardianto: 'https://hardianto.xyz',
   botstyle: 'https://botstyle-api.herokuapp.com',
-adiisus: 'https://adiixyzapi.herokuapp.com',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   kanx: 'https://kannxapi.herokuapp.com/'
 }
