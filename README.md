@@ -158,7 +158,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![KingOfBear](https://github.com/saipulanuar.png?size=150)](https://github.com/saipulanuar) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![XynelsDesign](https://github.com/Xynelsbotz.png?size=150)](https://github.com/saipulanuar) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [XynelsDesign](https://github.com/Xynelsbotz) | [Istikmal](https://github.com/BochilGaming)
  Author | yg nambah fitur | yg punya sc
