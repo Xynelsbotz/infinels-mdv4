@@ -36,13 +36,13 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/saipulanuar"><img src="https://github.com/saipulanuar.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/Xynelsbotz"><img src="https://github.com/saipulanuar.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [Owner-YukiBot](https://wa.me/6288279268363)
+* Info Lebih Lanjut, Chat [Owner-Xynels](https://wa.me/6285854337533)
 
 ## How To Change Menu Display
 ----
@@ -112,8 +112,8 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/saipulanuar/YukiBot2022
-cd YukiBot2022
+git clone https://github.com/Xynelsbotz/infinels-mdv4
+cd infinels-mdv4
 npm install
 npm update
 npm index
@@ -129,8 +129,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/saipulanuar/YukiBot2022
-cd YukiBot2022
+git clone https://github.com/Xynelsbotz/infinels-mdv4
+cd infinels-mdv4
 yarn
 node .
 ```
