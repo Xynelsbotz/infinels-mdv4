@@ -38,22 +38,11 @@ let tags = {
   '': 'No Category',
 }
 const defaultMenu = {
-  before: `┏━━━ꕥ〔 *llı INFO USER ıll* 〕ꕥ━⬣ 
-┃✾ *Name:* %name
-┃✾ *Tag:* %name
-┃✾ *Status:* %prems
-┃✾ *Limit:* %limit
-┃✾ *Role:* %role
-┃✾ *Level:* %level [ %xp4levelup Xp For Levelup]
-┃✾ *Xp:* %exp / %maxexp
-┃✾ *Total Xp:* %totalexp
-┗━ꕥ
-┏━ꕥ〔 *llı TODAY ıll* 〕ꕥ━⬣
-┃✾ *Days:* %week %weton
-┃✾ *Date:* %date
-┃✾ *Jam:* ${wib2} WIB
-┃✾ *Islamic Date:* %dateIslamic
-┗━ꕥ
+  before: `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘣𝘺 𝘟𝘺𝘯𝘦𝘭𝘴 
+Instagram : instagram.com/xynels.design
+
+↻ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ↺
+
 ┏━ꕥ〔 *llı INFO ıll* 〕ꕥ━⬣
 ┃✾ *Bot Name:* %me
 ┃✾ *Mode:* Public
@@ -71,7 +60,7 @@ const defaultMenu = {
   header: '┏━━━ꕥ〔 *%category* 〕ꕥ━⬣',
     body: '┃✾ %cmd %islimit %isPremium',
   footer: '┗━━━━━━━━━ꕥ\n',
-  after: `  ${'✧\n┏━📮 *Note* :\n┃ 𝙹𝙸𝙺𝙰 𝙼𝙴𝙻𝙰𝙽𝙶𝙶𝙰𝚁 𝚃𝙾𝚂 𝙰𝙺𝙰𝙽 𝙳𝙸 𝙱𝙰𝙽 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽! ^_^\n┗━━━━━━━━━━━━━━━━━━━ꕥ'}`,
+  after: `  ${'✧\n┏━📮 *Note* :\n┃ 𝙹𝙸𝙺𝙰 𝙼𝙴𝙻𝙰𝙽𝙶𝙶𝙰𝚁, 𝙰𝙺𝙰𝙽 𝙳𝙸 𝙱𝙰𝙽 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽! ^_^\n┗━━━━━━━━━━━━━━━━━━━ꕥ\n\n↻ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ↺'}`,
 }
 let handler = async (m, { conn, usedPrefix, __dirname }) => {
   try {
@@ -184,8 +173,8 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     conn.sendButton(m.chat,
 `${wish()} ${name}
 `, text.trim(), `${flaa}All Menu`, [
-      [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
-      [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
+      [`SEWA BOT`, `${usedPrefix}sewa`],
+      [`۪۪AUTHOR BOT`, `${usedPrefix}owner`]
     ], m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://youtu.be/pwLZpdfO8AU',
@@ -237,19 +226,19 @@ function wish() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   wishloc = ('Hi')
   if (time >= 0) {
-    wishloc = ('Selamat Malam🌃')
+    wishloc = ('Selamat Malam kak 🌃')
   }
   if (time >= 4) {
-    wishloc = ('Selamat Pagi🌄')
+    wishloc = ('Selamat Pagi kak 🌄')
   }
   if (time >= 12) {
-    wishloc = ('Selamat Siang☀️')
+    wishloc = ('Selamat Siang kak ☀️')
   }
   if (time >= 16) {
-    wishloc = ('️ Selamat Malam🌇')
+    wishloc = ('️ Selamat Malam kak 🌇')
   }
   if (time >= 23) {
-    wishloc = ('Selamat Malam🌙')
+    wishloc = ('Selamat Malam kak 🌙')
   }
   return wishloc
 }
