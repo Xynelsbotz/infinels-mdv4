@@ -32,7 +32,7 @@ global.syt = 'https://youtu.be/8eEHz7V4nIg'
 global.sgh = 'https://github.com/Xynelsbotz'
 global.sgc = 'https://chat.whatsapp.com/Gv3ARAAr1yDAeCMBpuZ6ER'
 global.swa = 'wa.me/6285854337533'
-global.swb = 'https://'
+global.swb = 'https://xynelsdsg.carrd.co'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -52,9 +52,10 @@ global.nameown = 'ᴹᴿ᭄ Xynelscc ×፝֟͜×'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285854337533', 'ᴹᴿ᭄ Xynelscc ×፝֟͜×', 'true']
+  ['6285854337533', 'Owner Bot', 'true'],
+  ['6285646458928', 'Creator Bot', 'true'],
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+  // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
@@ -110,7 +111,7 @@ global.danied = '𝙴𝚁𝚁𝙾𝚁 𝟺𝟶𝟺 ⓘ'
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
+global.giflogo = 'https://telegra.ph/file/d49f134d5cde55d27be87.jpg'
 global.giflogo2 = 'https://telegra.ph/file/8dbf3dc8d7634261eed74.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -372,7 +373,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
+global.stickpack = 'ᴍᴀᴅᴇ ʙʏ\nDon't forget to follow'
 global.stickauth = `Xynelscc`
 
 global.multiplier = 38 // The higher, The harder levelup
