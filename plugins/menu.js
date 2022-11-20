@@ -42,7 +42,7 @@ const defaultMenu = {
 Instagram : instagram.com/xynels.design
 
 ↻ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ↺
-
+%readmore`.trimStart(),
 ┏━ꕥ〔 *llı INFO ıll* 〕ꕥ━⬣
 ┃✾ *Bot Name:* %me
 ┃✾ *Mode:* Public
@@ -163,7 +163,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const valor = './thumbnail.jpg'
     let url = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
     let flaa = pickRandom(global.flaaaaa)
-    const ultah = new Date('November 4 2022 00:00:01')
+    const ultah = new Date('Juli 31 2023 00:00:01')
     const sekarat = new Date().getTime() 
     const Kurang = ultah - sekarat
     const ohari = Math.floor( Kurang / (1000 * 60 * 60 * 24));
@@ -180,7 +180,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://youtu.be/pwLZpdfO8AU',
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ Xynelscc ×፝֟͜×`,
-                        title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
+                        title: `Miniatur alam dengan sejuta mimpi.`,
                         body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ Xynelscc ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
                         mediaUrl: 'https://youtu.be/pwLZpdfO8AU'
@@ -199,9 +199,9 @@ ptt: true })
 handler.help = ['menu', 'help']
 handler.tags = ['info', 'main']
 
-handler.command = /^(menu|help)$/i
+handler.command = /^(menu|help|m|bot)$/i
 
-handler.limit = false
+handler.limit = true
 handler.register = true
 handler.exp = 3
 
